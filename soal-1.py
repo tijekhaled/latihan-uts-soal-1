@@ -1,7 +1,7 @@
 # Latihan Soal UTS KU1102 K16
 # Asisten Akademik: Theodore Maximillan Jonathan (13219021)
 
-# Nomor Soal    :
+# Nomor Soal    : 1
 # NIM           : 
 # Nama          :
 
